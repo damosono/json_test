@@ -1,0 +1,5 @@
+{
+  "Start_Time": 14:00,
+  "Duration": 60,  // Duration in minutes
+  "Report_Frequency": 15  // Frequency in minutes
+}
